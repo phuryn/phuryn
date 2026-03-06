@@ -14,17 +14,21 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 ---
 
-## 📬 The Product Compass Newsletter
+<details>
+<summary>📬 The Product Compass Newsletter</summary>
 
 > Actionable tips, resources, and step-by-step playbooks to learn by doing.
 
-**600+ free resources when you subscribe by getting:**
+→ [Subscribe for free](https://www.productcompass.pm/subscribe)
+
+**Bonus resources for subscribers:**
 - 🗺️ [PM Posters](https://learn.productcompass.pm/download-pm-posters) — visual frameworks for your wall
 - 📊 [North Star Metric 101](https://learn.productcompass.pm/nsm101) — 13 pages, PDF
 
----
+</details>
 
-## 🤖 AI Product Management
+<details>
+<summary>🤖 AI Product Management — Selected Articles</summary>
 
 | Article |
 |---------|
@@ -37,9 +41,10 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 → [All AI PM articles](https://go.productcompass.pm/?category=ai-product-management)
 
----
+</details>
 
-## ⚡ Vibe Engineering
+<details>
+<summary>⚡ Vibe Engineering — Selected Articles</summary>
 
 | Article |
 |---------|
@@ -48,18 +53,31 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 → [All Vibe Engineering articles](https://go.productcompass.pm/?category=vibe-engineering)
 
----
+</details>
 
-## 🎓 Recommended Courses
+<details>
+<summary>🎓 Recommended Courses</summary>
 
-| Course | Discount |
-|--------|----------|
-| [AI PM Certification](https://bit.ly/aipmcohort) #1 Maven | **$500 off** |
-| [AI Evals](https://bit.ly/aievals-ph) #1 Maven | **25% off** |
+| Course | Comment |
+|--------|---------|
+| **My Favorite Maven Courses** | |
+| [AI PM Certification](https://bit.ly/aipmcohort) #1 Maven | **$500 off** + annual subscribtion to my newsletter with this link |
+| [AI Evals](https://bit.ly/aievals-ph) #1 Maven | **25% off** + annual subscribtion to my newsletter with this link |
+| **AI PM Learning Program** | |
+| &nbsp;&nbsp;[C11. LLM Practitioner PM](https://www.productcompass.pm/p/c10-llm-practitioner-pm-ai-pm) | Free for my subscribers |
+| &nbsp;&nbsp;[C21. AI Agents Practitioner PM](https://www.productcompass.pm/p/c21-ai-agents-practitioner-pm) | Free for subscribers |
+| **Free Courses for Premium Members** | |
+| &nbsp;&nbsp;[Continuous Product Discovery](https://www.productcompass.pm/p/cpdm) | Free for subscribers |
+| &nbsp;&nbsp;[From Strategy to Objectives](https://www.productcompass.pm/p/product-vision-strategy-objectives-course) | Free for my subscribers |
+| &nbsp;&nbsp;[Product Innovation](https://www.productcompass.pm/p/product-innovation-masterclass) | Free for subscribers |
+| &nbsp;&nbsp;[How to Craft a Killer PM Resume](https://www.productcompass.pm/p/pm-resume-course) | Free for subscribers |
+
+</details>
 
 ---
 
 ## 📡 Find Me
 
 [![Substack](https://img.shields.io/badge/Newsletter-productcompass.pm-orange?style=flat-square)](https://www.productcompass.pm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paweł_Huryn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pawel-huryn/)
 [![Twitter/X](https://img.shields.io/badge/X-@PawelHuryn-black?style=flat-square&logo=x)](https://x.com/PawelHuryn)
