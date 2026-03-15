@@ -12,6 +12,12 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** — 100+ agentic skills, commands, and plugins for Claude Code, Cowork, Gemini CLI, Cursor, Codex, and Kiro. Covers discovery, strategy, execution, analytics, GTM, and growth.
 
+## 🐝 Swarm Protocol
+
+[![swarm-protocol](https://img.shields.io/github/stars/phuryn/swarm-protocol?style=social)](https://github.com/phuryn/swarm-protocol)
+
+**[phuryn/swarm-protocol](https://github.com/phuryn/swarm-protocol)** — Coordination protocol for agent-first teams. No UI. No sprints. No Jira. Just state sync.
+
 ---
 
 <details>
