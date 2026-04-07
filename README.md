@@ -12,6 +12,12 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** — 100+ agentic skills, commands, and plugins for Claude Code, Cowork, Gemini CLI, Cursor, Codex, and Kiro. Covers discovery, strategy, execution, analytics, GTM, and growth.
 
+## 📊 Claude Usage
+
+[![claude-usage](https://img.shields.io/github/stars/phuryn/claude-usage?style=social)](https://github.com/phuryn/claude-usage)
+
+**[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** — A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
+
 ## 🐝 Swarm Protocol
 
 [![swarm-protocol](https://img.shields.io/github/stars/phuryn/swarm-protocol?style=social)](https://github.com/phuryn/swarm-protocol)
