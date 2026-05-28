@@ -18,6 +18,18 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 **[phuryn/claude-usage](https://github.com/phuryn/claude-usage)** — A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 
+## 🧠 PM Brain
+
+[![pm-brain](https://img.shields.io/github/stars/phuryn/pm-brain?style=social)](https://github.com/phuryn/pm-brain)
+
+**[phuryn/pm-brain](https://github.com/phuryn/pm-brain)** — The Second Brain for Product Managers, Made of Markdown.
+
+## 🚀 Grok Build for VS Code
+
+[![grok-build-vscode](https://img.shields.io/github/stars/phuryn/grok-build-vscode?style=social)](https://github.com/phuryn/grok-build-vscode)
+
+**[phuryn/grok-build](https://github.com/phuryn/grok-build-vscode)** — Grok Build Visual Studio Code extension. A full embedded chat UI — not a terminal launcher.
+
 ## 🐝 Swarm Protocol
 
 [![swarm-protocol](https://img.shields.io/github/stars/phuryn/swarm-protocol?style=social)](https://github.com/phuryn/swarm-protocol)
