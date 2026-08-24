@@ -30,12 +30,6 @@ Creator of [The Product Compass Newsletter](https://www.productcompass.pm/) — 
 
 **[phuryn/grok-build](https://github.com/phuryn/grok-build-vscode)** — Grok Build Visual Studio Code extension. A full embedded chat UI — not a terminal launcher.
 
-## 🐝 Swarm Protocol
-
-[![swarm-protocol](https://img.shields.io/github/stars/phuryn/swarm-protocol?style=social)](https://github.com/phuryn/swarm-protocol)
-
-**[phuryn/swarm-protocol](https://github.com/phuryn/swarm-protocol)** — Coordination protocol for agent-first teams. No UI. No sprints. No Jira. Just state sync.
-
 ---
 
 <details>
